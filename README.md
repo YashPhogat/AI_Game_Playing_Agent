@@ -12,4 +12,4 @@ In this project, we will play the game of Halma, an adversarial game with some s
 3. Handled more complicated rules to avoid spoiling by either player.
 
 
-`NOTE: I am not entirely sure if posting the code may violate some of my course rules since this was a class project so I will not be posting any code here. Please reach out to me personally if you want to understand the logic or other details.`
+`NOTE: I am NOT entirely sure if posting the code may violate some of my course rules since this was a class project so I will not be posting any code here. Please reach out to me personally if you want to understand the logic or other details.`
