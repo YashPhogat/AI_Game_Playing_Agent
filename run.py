@@ -6,10 +6,9 @@ while True:
     print(count)
 
     # os.system('python redo. d.py')
-    # os.system('python homework3_ruchir.py')
     # os.system('python build_board.py')
-    # os.system('python homework3.py')
-    os.system('python homework3_1.py')
+    # os.system('python make_moves3.py')
+    os.system('python make_moves_3_1.py')
     os.system('python build_board.py')
 
 
